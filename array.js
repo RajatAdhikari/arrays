@@ -1,3 +1,7 @@
+1.Write a program to make a simple calculator using switch statement that takes operator and two numbers from user and
+ print the result after operation.
+
+
 const isAllPass = (N, Arr) => 
 {
   let count=0
